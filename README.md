@@ -12,7 +12,7 @@ WeatherWay is a sophisticated weather forecasting website meticulously crafted b
 - Deployment: Hosted on Netlify for reliable accessibility worldwide.
 
 ## Demo:
-Explore the live demo of WeatherWay: [WeatherWay](https://weather-way.netlify.app/){:target="_blank"} 🌐
+Explore the live demo of WeatherWay: [WeatherWay](https://weather-way.netlify.app/)🌐
 
 
 ## Screenshots:
