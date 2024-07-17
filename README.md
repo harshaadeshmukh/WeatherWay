@@ -11,6 +11,9 @@ WeatherWay is a sophisticated weather forecasting website meticulously crafted b
 - API Integration: Utilizes the Visual Crossing API for weather data retrieval.
 - Deployment: Hosted on Netlify for reliable accessibility worldwide.
 
+## Demo:
+Explore the live demo of WeatherWay: [WeatherWay](https://weather-way.netlify.app/)🌐
+
 ## Screenshots:
 - User Interface: Screenshots showcasing different views of the WeatherWay website, displaying its user interface, search functionality, and weather data presentation. Users can see today's weather or the week's forecast at a glance.
 ![Screenshot (151)](https://github.com/user-attachments/assets/7fb08ba9-6ad3-4559-ad0c-3292037adca5)
